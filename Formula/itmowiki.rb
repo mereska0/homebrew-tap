@@ -1,8 +1,8 @@
 class Itmowiki < Formula
   desc "ITMO wiki terminal client"
   homepage "https://github.com/mereska0/itmowiki"
-  url "https://github.com/mereska0/itmowiki/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "fa995dd620b6948df2ab57a80d622cc1c6a05ada0864f1f49fc641697646ee6f"
+  url "https://github.com/mereska0/itmowiki/archive/refs/tags/v0.1.6.tar.gz"
+  sha256 "d62d00ac3adce256b607d63c0cd3fd2e907190be5e3d8e4a76b34b02bdd5ae3e"
   license "MIT"
 
   depends_on "go" => :build
